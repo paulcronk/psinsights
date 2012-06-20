@@ -1,0 +1,23 @@
+Building and Installing `psinsights`
+====================================
+
+Contents:
+
+1. Build Requirements
+2. Building and Installing From Source
+
+1. Build Requirements
+---------------------
+
+Building `psinsights` requires python 2.6 or later, with the distutils library.
+
+2. Building and Installing from Source
+--------------------------------------
+
+To build `psinsights`, change your current directory to the top-level directory
+of the project and execute:
+
+    python setup.py install
+
+The install script is a distutils script.  All of the options available to
+standard distutils setup scripts are available.

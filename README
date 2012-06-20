@@ -1,0 +1,11 @@
+`psinsights` is a set of python bindings for Google's PageSpeed Insights API.
+The PageSpeed Insights API helps "developers optimize their web pages by
+applying web performance best practices" to their web pages.  You can find out
+more about the PageSpeed Insights API here:
+
+    https://developers.google.com/speed/docs/insights/
+
+`psinsights` was written by the software engineers at FastSoft.  You can find
+more information about FastSoft here:
+
+    http://www.fastsoft.com/
