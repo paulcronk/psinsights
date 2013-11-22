@@ -2,7 +2,7 @@
 
 ###############################################################################
 # Copyright 2012 FastSoft Inc.
-# Copyright 2012 Devin Anderson <danderson (at) fastsoft (dot) com>
+# Copyright 2012-2013 Devin Anderson <danderso (at) akamai (dot) com>
 #
 # Licensed under the Apache License, Version 2.0 (the "License"); you may not
 # use this file except in compliance with the License.  You may obtain a copy
@@ -82,7 +82,7 @@ def main():
     improve_rule_data = []
     optimal_rule_data = []
     for id, rule in analysis.results.rules.iteritems():
-        if rule.score == 100:
+        if rule.impact == 0.0:
             optimal_rule_data.append((id, rule))
         else:
             improve_rule_data.append((id, rule))
@@ -94,10 +94,8 @@ def main():
             id, rule = improve_rule_data[i]
             stdout.write("\n%d.) %s\n"
                          "Id: %s\n"
-                         "Score: %s\n"
                          "Impact: %s\n" %
-                         (i + 1, rule.localized_name, id, rule.score,
-                          rule.impact))
+                         (i + 1, rule.localized_name, id, rule.impact))
             for block in rule.url_blocks:
                 stdout.write("\n%s\n" % unicode(block.header).strip())
                 for url in block.urls:

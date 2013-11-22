@@ -1,6 +1,6 @@
 ###############################################################################
 # Copyright 2012 FastSoft Inc.
-# Copyright 2012 Devin Anderson <danderson (at) fastsoft (dot) com>
+# Copyright 2012-2013 Devin Anderson <danderso (at) akamai (dot) com>
 #
 # Licensed under the Apache License, Version 2.0 (the "License"); you may not
 # use this file except in compliance with the License.  You may obtain a copy
@@ -35,10 +35,6 @@ class Rule(object):
     @property
     def localized_name(self):
         return self.__data["localizedRuleName"]
-
-    @property
-    def score(self):
-        return self.__data["ruleScore"]
 
     @property
     def url_blocks(self):
