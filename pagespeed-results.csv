@@ -1,0 +1,170 @@
+,URL,Format,Pageviews,Page load time,Title,PageSpeed score,Total Resource count,Total Request Bytes,Static Resource count,CSS Resource count,CSS Response Bytes,Flash Response Bytes,Host Count,HTML Response Bytes,Image Response Bytes,JavaScript Resource Count,JavaScript Response Bytes,Text Response Bytes,Other Response Bytes
+0,https://www.gov.uk/state-pension-statement,answer,34813,1.219303797,Get a State Pension statement - GOV.UK,85.0,20.0,3096,18.0,6.0,498483,0.0,3.0,18571,13533,5.0,283216,0.0,0.0
+1,https://www.gov.uk/national-minimum-wage-rates,answer,24177,2.856219251,National Minimum Wage rates - GOV.UK,85.0,19.0,2953,17.0,6.0,498481,0.0,3.0,20743,11812,5.0,283214,0.0,0.0
+2,https://www.gov.uk/benefits-calculators,answer,23935,1.519576531,Benefits calculators - GOV.UK,85.0,21.0,3212,19.0,6.0,498481,0.0,3.0,19724,14555,5.0,283217,0.0,0.0
+3,https://www.gov.uk/log-in-file-self-assessment-tax-return,answer,23827,1.154394444,Log in and file your Self Assessment tax return - GOV.UK,85.0,21.0,3297,19.0,6.0,498482,0.0,3.0,20120,14554,5.0,283214,0.0,0.0
+4,https://www.gov.uk/contact-jobcentre-plus,answer,20824,2.394494505,Contact Jobcentre Plus - GOV.UK,85.0,21.0,3245,19.0,6.0,498482,0.0,3.0,21475,14552,5.0,283213,0.0,0.0
+5,https://www.gov.uk/apply-apprenticeship,answer,19869,1.300266304,Find an apprenticeship - GOV.UK,85.0,21.0,3231,19.0,6.0,498482,0.0,3.0,18748,14553,5.0,283214,0.0,0.0
+6,https://www.gov.uk/renew-adult-passport,answer,15995,1.72025,Renew or replace your adult passport - GOV.UK,85.0,21.0,3271,19.0,6.0,498483,0.0,3.0,22181,14551,5.0,283212,0.0,0.0
+7,https://www.gov.uk/apply-national-insurance-number,answer,14841,2.092070922,Apply for a National Insurance number - GOV.UK,85.0,20.0,3101,18.0,6.0,498483,0.0,3.0,19036,13532,5.0,283217,0.0,0.0
+8,https://www.gov.uk/dbs-update-service,answer,12506,1.814809917,DBS update service - GOV.UK,85.0,21.0,3218,19.0,6.0,498482,0.0,3.0,21728,14549,5.0,283217,0.0,0.0
+9,https://www.gov.uk/call-charges,answer,11595,1.308873786,Call charges and phone numbers - GOV.UK,85.0,20.0,3098,18.0,6.0,498483,0.0,3.0,19145,12829,5.0,283216,0.0,0.0
+10,https://www.gov.uk/browse/driving,browse,46142,2.216964467,Driving and transport - GOV.UK,86.0,19.0,2925,17.0,6.0,367736,0.0,3.0,19869,11813,5.0,229772,0.0,0.0
+11,https://www.gov.uk/browse/visas-immigration,browse,35139,2.55406338,Visas and immigration - GOV.UK,86.0,19.0,2943,17.0,6.0,367737,0.0,3.0,19686,11811,5.0,229775,0.0,0.0
+12,https://www.gov.uk/browse/driving/driving-licences,browse,31689,2.048969231,Driving licences - GOV.UK,86.0,19.0,2982,17.0,6.0,367738,0.0,3.0,23735,11811,5.0,229771,0.0,0.0
+13,https://www.gov.uk/browse/driving/car-tax-discs,browse,29195,1.843537549,Vehicle tax and SORN - GOV.UK,86.0,19.0,2983,17.0,6.0,367736,0.0,3.0,21599,11811,5.0,229773,0.0,0.0
+14,https://www.gov.uk/browse/benefits,browse,27087,2.068144144,Benefits - GOV.UK,86.0,19.0,2907,17.0,6.0,367736,0.0,3.0,18592,11811,5.0,229771,0.0,0.0
+15,https://www.gov.uk/browse/working,browse,13067,1.637159664,"Working, jobs and pensions - GOV.UK",86.0,19.0,2930,17.0,6.0,367735,0.0,3.0,18979,11814,5.0,229772,0.0,0.0
+16,https://www.gov.uk/browse/abroad/passports,browse,12832,1.113021739,Passports - GOV.UK,86.0,19.0,2978,17.0,6.0,367735,0.0,3.0,20074,11814,5.0,229771,0.0,0.0
+17,https://www.gov.uk/browse/benefits/tax-credits,browse,12642,1.957521739,Tax credits - GOV.UK,86.0,19.0,2952,17.0,6.0,367737,0.0,3.0,21133,11812,5.0,229775,0.0,0.0
+18,https://www.gov.uk/browse/visas-immigration/tourist-short-stay-visas,browse,11419,2.061944444,Tourist and short stay visas - GOV.UK,86.0,19.0,3036,17.0,6.0,367736,0.0,3.0,20807,11814,5.0,229771,0.0,0.0
+19,https://www.gov.uk/browse/working/state-pension,browse,10708,1.77175,State Pension - GOV.UK,86.0,19.0,2980,17.0,6.0,367736,0.0,3.0,21828,11813,5.0,229771,0.0,0.0
+20,https://www.gov.uk/start-up-loans,business_support,972,1.7120625,Start Up Loans - GOV.UK,85.0,22.0,3373,20.0,6.0,498483,0.0,3.0,17790,15347,5.0,283213,0.0,0.0
+21,https://www.gov.uk/child-benefit-tax-calculator/main,calculator,4044,0.921181818,Child Benefit tax calculator - GOV.UK,86.0,24.0,3770,22.0,6.0,435195,0.0,3.0,26768,16957,5.0,245558,0.0,0.0
+22,https://www.gov.uk/child-benefit-tax-calculator,calculator,2426,1.294333333,Child Benefit tax calculator - GOV.UK,85.0,20.0,3114,18.0,6.0,435194,0.0,3.0,18180,13534,5.0,245560,0.0,0.0
+23,https://www.gov.uk/bank-holidays,calendar,43284,3.233378613,UK bank holidays - GOV.UK,86.0,20.0,3065,18.0,7.0,431887,0.0,3.0,56484,13002,4.0,242827,0.0,0.0
+24,https://www.gov.uk/when-do-the-clocks-change,calendar,418,1.118333333,When do the clocks change? - GOV.UK,86.0,20.0,3111,18.0,7.0,431890,0.0,3.0,17505,13004,4.0,242827,0.0,0.0
+25,https://www.gov.uk/yourstatepension,campaign,16972,3.183391608,Your State Pension is changing - GOV.UK,84.0,22.0,3346,20.0,6.0,498482,0.0,3.0,19288,92562,5.0,283215,0.0,0.0
+26,https://www.gov.uk/vehicletaxrules,campaign,1005,0.776125,Vehicle tax: what to do when you buy or sell a vehicle - GOV.UK,83.0,22.0,3362,20.0,6.0,498482,0.0,3.0,18265,163989,5.0,283215,0.0,0.0
+27,https://www.gov.uk/dla-ending,campaign,524,3.038333333,Disability Living Allowance is ending - GOV.UK,82.0,22.0,3339,20.0,6.0,498482,0.0,3.0,18004,105447,5.0,283211,0.0,0.0
+28,https://www.gov.uk/studentfinancesteps,campaign,504,1.264857143,Student finance for academic year 2016 to 2017 - GOV.UK,81.0,21.0,3203,19.0,6.0,498482,0.0,3.0,17055,165712,5.0,283214,0.0,0.0
+29,https://www.gov.uk/knowbeforeyougo,campaign,465,1.162888889,Know Before You Go - staying safe and healthy abroad - GOV.UK,83.0,22.0,3363,20.0,6.0,498483,0.0,3.0,18306,120314,5.0,283214,0.0,0.0
+30,https://www.gov.uk/statepensiontopup,campaign,442,1.372666667,State Pension top up - GOV.UK,84.0,22.0,3315,20.0,6.0,498482,0.0,3.0,17306,158917,5.0,283216,0.0,0.0
+31,https://www.gov.uk/dotherightthing,campaign,429,0,Benefit claims: do the right thing - GOV.UK,83.0,22.0,3360,20.0,6.0,498480,0.0,3.0,16642,169393,5.0,283214,0.0,0.0
+32,https://www.gov.uk/let-property-campaign,campaign,314,1.778,Let Property Campaign - GOV.UK,83.0,26.0,3947,24.0,6.0,498483,0.0,3.0,20811,80629,5.0,283212,0.0,0.0
+33,https://www.gov.uk/civil-service-apprenticeships,campaign,303,0,Civil Service Apprenticeship Schemes - GOV.UK,83.0,22.0,3360,20.0,6.0,498482,0.0,3.0,16816,142288,5.0,283212,0.0,0.0
+34,https://www.gov.uk/employment-allowance,campaign,293,6.604333333,Employment Allowance - GOV.UK,82.0,22.0,3330,20.0,6.0,498483,0.0,3.0,17358,201935,5.0,283214,0.0,0.0
+35,https://www.gov.uk/done/vehicle-tax,completed_transaction,44833,1.635160606,Thank you - GOV.UK,85.0,20.0,3048,18.0,6.0,498481,0.0,3.0,17965,12830,5.0,283211,0.0,0.0
+36,https://www.gov.uk/done/check-vehicle-tax,completed_transaction,12547,1.949822222,Thank you - GOV.UK,85.0,20.0,3058,18.0,6.0,498482,0.0,3.0,17988,12829,5.0,283215,0.0,0.0
+37,https://www.gov.uk/done/view-driving-licence,completed_transaction,11875,1.369545455,Thank you - GOV.UK,85.0,20.0,3067,18.0,6.0,498481,0.0,3.0,18708,12830,5.0,283212,0.0,0.0
+38,https://www.gov.uk/driving-transaction-finished,completed_transaction,10203,2.162956044,Thank you - GOV.UK,85.0,20.0,3070,18.0,6.0,498481,0.0,3.0,17341,12829,5.0,283215,0.0,0.0
+39,https://www.gov.uk/done/make-a-sorn,completed_transaction,6107,1.82912766,Thank you - GOV.UK,85.0,20.0,3046,18.0,6.0,498482,0.0,3.0,18717,12833,5.0,283213,0.0,0.0
+40,https://www.gov.uk/transaction-finished,completed_transaction,3497,6.260925926,Your transaction is finished - GOV.UK,85.0,20.0,3075,18.0,6.0,498483,0.0,3.0,16797,12830,5.0,283213,0.0,0.0
+41,https://www.gov.uk/done/book-driving-test,completed_transaction,3164,2.864809524,Thank you - GOV.UK,85.0,20.0,3060,18.0,6.0,498482,0.0,3.0,18693,12830,5.0,283214,0.0,0.0
+42,https://www.gov.uk/done/overseas-passports,completed_transaction,2068,1.935352941,Thank you - GOV.UK,85.0,19.0,2899,17.0,6.0,498482,0.0,3.0,18086,11813,5.0,283214,0.0,0.0
+43,https://www.gov.uk/done/change-date-practical-driving-test,completed_transaction,1160,12.916,Thank you - GOV.UK,85.0,20.0,3092,18.0,6.0,498483,0.0,3.0,18763,12828,5.0,283214,0.0,0.0
+44,https://www.gov.uk/done/marriage-allowance,completed_transaction,1142,0.878333333,Thank you - GOV.UK,85.0,19.0,2899,17.0,6.0,498484,0.0,3.0,17373,11813,5.0,283214,0.0,0.0
+45,https://www.gov.uk/guidance/rules-for-all-agency-staff-working-in-the-nhs,detailed_guidance,7496,1.294448276,Rules for all agency staff working in the NHS - Detailed guidance - GOV.UK,86.0,20.0,3344,18.0,7.0,762465,0.0,3.0,28033,12092,5.0,314534,0.0,0.0
+46,https://www.gov.uk/guidance/tax-professional-development-programme,detailed_guidance,5504,7.017717949,Join the HMRC Graduate Programme (Tax Professional) - Detailed guidance - GOV.UK,84.0,21.0,3895,19.0,7.0,762465,0.0,3.0,52990,334506,5.0,314538,0.0,0.0
+47,https://www.gov.uk/guidance/hmrc-tools-and-calculators,detailed_guidance,4044,1.753296296,HMRC calculators and tools - Detailed guidance - GOV.UK,86.0,20.0,3267,18.0,7.0,762467,0.0,3.0,37269,12094,5.0,314537,0.0,0.0
+48,https://www.gov.uk/guidance/annual-tax-summary,detailed_guidance,3784,2.552166667,Annual tax summary - Detailed guidance - GOV.UK,86.0,20.0,3277,18.0,7.0,762468,0.0,3.0,27910,12091,5.0,314535,0.0,0.0
+49,https://www.gov.uk/guidance/civil-service-fast-stream-graduate-schemes,detailed_guidance,3385,3.483916667,Civil Service Fast Stream: Graduate schemes - Detailed guidance - GOV.UK,85.0,21.0,3481,19.0,7.0,762465,0.0,3.0,31475,15739,5.0,314536,0.0,0.0
+50,https://www.gov.uk/guidance/rates-of-vat-on-different-goods-and-services,detailed_guidance,3235,1.510206897,VAT rates on different goods and services - Detailed guidance - GOV.UK,85.0,21.0,3522,19.0,7.0,762469,0.0,3.0,69136,15741,5.0,314536,0.0,0.0
+51,https://www.gov.uk/guidance/hmrc-online-services-for-agents,detailed_guidance,2988,0.667466667,HMRC Online Services for agents - Detailed guidance - GOV.UK,86.0,20.0,3321,18.0,7.0,762467,0.0,3.0,36096,12091,5.0,314535,0.0,0.0
+52,https://www.gov.uk/guidance/rates-and-thresholds-for-employers-2015-to-2016,detailed_guidance,2737,1.418315789,Rates and thresholds for employers 2015 to 2016 - Detailed guidance - GOV.UK,85.0,20.0,3372,18.0,7.0,762467,0.0,3.0,44834,14722,5.0,314536,0.0,0.0
+53,https://www.gov.uk/guidance/civil-service-fast-stream-how-to-apply,detailed_guidance,2684,1.953529412,Civil Service Fast Stream: How to apply - Detailed guidance - GOV.UK,85.0,21.0,3511,19.0,7.0,762467,0.0,3.0,37732,15740,5.0,314534,0.0,0.0
+54,https://www.gov.uk/guidance/jobcentres-where-you-can-claim-universal-credit,detailed_guidance,2592,2.367555556,Jobcentre areas where you can claim Universal Credit - Detailed guidance - GOV.UK,86.0,20.0,3380,18.0,7.0,762469,0.0,3.0,61258,12093,5.0,314536,0.0,0.0
+55,https://www.gov.uk/business-finance-support-finder,finder,1738,3.195333333,Finance and support for your business - GOV.UK,85.0,21.0,3528,18.0,6.0,441626,0.0,3.0,17641,13960,5.0,245839,0.0,0.0
+56,https://www.gov.uk/licence-finder,finder,547,3.327636364,Licence Finder - GOV.UK,86.0,20.0,3074,18.0,6.0,431712,0.0,3.0,17511,13532,5.0,248957,0.0,0.0
+57,https://www.gov.uk/log-in-register-hmrc-online-services,guide,50642,0.826572016,HMRC services: sign in or register - GOV.UK,85.0,24.0,3691,22.0,6.0,498484,0.0,3.0,20378,17045,5.0,283212,0.0,0.0
+58,https://www.gov.uk/new-state-pension,guide,23603,1.011604938,The new State Pension - GOV.UK,85.0,22.0,3362,20.0,6.0,498482,0.0,3.0,22037,15227,5.0,283214,0.0,0.0
+59,https://www.gov.uk/standard-visitor-visa,guide,18049,1.668475862,Standard Visitor visa - GOV.UK,85.0,22.0,3359,20.0,6.0,498484,0.0,3.0,25034,15231,5.0,283214,0.0,0.0
+60,https://www.gov.uk/self-assessment-tax-returns,guide,13045,1.298958904,Self Assessment tax returns - GOV.UK,85.0,22.0,3372,20.0,6.0,498479,0.0,3.0,21614,15232,5.0,283213,0.0,0.0
+61,https://www.gov.uk/new-state-pension/eligibility,guide,12295,1.084675,The new State Pension - GOV.UK,85.0,22.0,3389,20.0,6.0,498479,0.0,3.0,22957,15227,5.0,283213,0.0,0.0
+62,https://www.gov.uk/vehicle-tax-rate-tables,guide,11966,1.008349057,Vehicle tax rate tables - GOV.UK,85.0,22.0,3368,20.0,6.0,498482,0.0,3.0,20826,15232,5.0,283214,0.0,0.0
+63,https://www.gov.uk/new-state-pension/your-national-insurance-record-and-your-state-pension,guide,10538,0.81982716,The new State Pension - GOV.UK,85.0,23.0,3636,21.0,6.0,498485,0.0,3.0,23919,16248,5.0,283212,0.0,0.0
+64,https://www.gov.uk/income-tax-rates/current-rates-and-allowances,guide,10410,2.142561798,Income Tax rates and Personal Allowances - GOV.UK,85.0,22.0,3426,20.0,6.0,498482,0.0,3.0,22736,15231,5.0,283216,0.0,0.0
+65,https://www.gov.uk/income-tax-rates,guide,10294,1.080239583,Income Tax rates and Personal Allowances - GOV.UK,85.0,22.0,3367,20.0,6.0,498482,0.0,3.0,22708,15232,5.0,283214,0.0,0.0
+66,https://www.gov.uk/disclosure-barring-service-check/overview,guide,9603,2.194105882,DBS checks (previously CRB checks) - GOV.UK,85.0,28.0,4344,26.0,6.0,498485,0.0,3.0,25025,20793,5.0,283216,0.0,0.0
+67,https://www.gov.uk/help/beta,help_page,2013,1.325045455,Beta on GOV.UK - GOV.UK,85.0,19.0,2876,17.0,6.0,498484,0.0,3.0,17700,11815,5.0,283216,0.0,0.0
+68,https://www.gov.uk/help,help_page,1488,2.532444444,Help using GOV.UK - Help Pages - GOV.UK,85.0,19.0,2877,17.0,6.0,498483,0.0,3.0,16838,11813,5.0,283214,0.0,0.0
+69,https://www.gov.uk/help/browsers,help_page,962,1.03675,Browsers - GOV.UK,85.0,21.0,3182,19.0,6.0,498484,0.0,3.0,17841,14554,5.0,283217,0.0,0.0
+70,https://www.gov.uk/help/cookies,help_page,894,0.8865,Cookies - GOV.UK,85.0,21.0,3182,19.0,6.0,498485,0.0,3.0,25525,14555,5.0,283215,0.0,0.0
+71,https://www.gov.uk/shotgun-and-firearm-certificates,licence,1008,3.007833333,Shotgun and firearm certificates - GOV.UK,85.0,22.0,3385,20.0,6.0,498484,0.0,3.0,18560,15350,5.0,283216,0.0,0.0
+72,https://www.gov.uk/waste-carrier-or-broker-registration,licence,772,2.9164,"Register or renew as a waste carrier, broker or dealer (England) - GOV.UK",85.0,23.0,3623,21.0,6.0,498485,0.0,3.0,20167,16458,5.0,283217,0.0,0.0
+73,https://www.gov.uk/tv-licence,licence,745,2.874777778,TV Licence - GOV.UK,85.0,23.0,3462,21.0,6.0,498485,0.0,3.0,18123,16462,5.0,283216,0.0,0.0
+74,https://www.gov.uk/hazardous-waste-producer-registration,licence,638,1.6565,Hazardous waste producer registration (England) - GOV.UK,85.0,23.0,3598,21.0,6.0,498485,0.0,3.0,21307,16460,5.0,283214,0.0,0.0
+75,https://www.gov.uk/food-business-registration,licence,564,1.3205,Food business registration - GOV.UK,85.0,22.0,3400,20.0,6.0,498485,0.0,3.0,18435,15665,5.0,283217,0.0,0.0
+76,https://www.gov.uk/premises-licence,licence,427,1.614666667,Premises licence (England and Wales) - GOV.UK,85.0,21.0,3212,19.0,6.0,498485,0.0,3.0,20919,14555,5.0,283217,0.0,0.0
+77,https://www.gov.uk/temporary-events-notice,licence,400,0.324333333,Temporary Events Notice (England and Wales) - GOV.UK,85.0,22.0,3419,20.0,6.0,498485,0.0,3.0,22495,15666,5.0,283216,0.0,0.0
+78,https://www.gov.uk/house-in-multiple-occupation-licence,licence,375,0.900333333,House in multiple occupation licence - GOV.UK,85.0,22.0,3438,20.0,6.0,498485,0.0,3.0,21337,15666,5.0,283217,0.0,0.0
+79,https://www.gov.uk/food-premises-approval,licence,226,0.174,Food premises approval (England) - GOV.UK,85.0,22.0,3403,20.0,6.0,498485,0.0,3.0,19602,15666,5.0,283217,0.0,0.0
+80,https://www.gov.uk/apply-for-elderly-person-bus-pass,local_transaction,3980,3.122416667,Apply for an older person's bus pass - GOV.UK,85.0,21.0,3294,19.0,6.0,498484,0.0,3.0,19091,14556,5.0,283217,0.0,0.0
+81,https://www.gov.uk/pay-council-tax,local_transaction,3418,1.903,Pay your Council Tax - GOV.UK,85.0,21.0,3239,19.0,6.0,498485,0.0,3.0,17643,14556,5.0,283217,0.0,0.0
+82,https://www.gov.uk/school-term-holiday-dates,local_transaction,2977,2.5635,School term and holiday dates - GOV.UK,85.0,21.0,3267,19.0,6.0,498485,0.0,3.0,18570,14556,5.0,283217,0.0,0.0
+83,https://www.gov.uk/apply-council-tax-reduction,local_transaction,2642,1.2397,Apply for Council Tax Reduction - GOV.UK,85.0,21.0,3254,19.0,6.0,498485,0.0,3.0,19016,14556,5.0,283217,0.0,0.0
+84,https://www.gov.uk/get-on-electoral-register,local_transaction,2197,0.760692308,Contact your local Electoral Registration Office - GOV.UK,85.0,21.0,3302,19.0,6.0,498485,0.0,3.0,18271,14556,5.0,283217,0.0,0.0
+85,https://www.gov.uk/apply-for-council-housing,local_transaction,2092,1.5024,Apply for council housing - GOV.UK,85.0,21.0,3265,19.0,6.0,498485,0.0,3.0,18598,14556,5.0,283217,0.0,0.0
+86,https://www.gov.uk/apply-for-primary-school-place,local_transaction,2089,1.674052632,Apply for a primary school place - GOV.UK,85.0,21.0,3281,19.0,6.0,498485,0.0,3.0,17762,14556,5.0,283216,0.0,0.0
+87,https://www.gov.uk/blue-badge-scheme-information-council,local_transaction,1684,1.2054375,Blue Badge scheme: information from your council - GOV.UK,85.0,20.0,3164,18.0,6.0,498485,0.0,3.0,18945,12834,5.0,283217,0.0,0.0
+88,https://www.gov.uk/apply-for-council-tax-discount,local_transaction,1469,0.6258,Apply for a Council Tax discount - GOV.UK,85.0,21.0,3286,19.0,6.0,498485,0.0,3.0,17608,14555,5.0,283216,0.0,0.0
+89,https://www.gov.uk/apply-housing-benefit-from-council,local_transaction,1407,1.347666667,Housing Benefit information from your council - GOV.UK,85.0,21.0,3281,19.0,6.0,498485,0.0,3.0,17701,14556,5.0,283216,0.0,0.0
+90,https://www.gov.uk/government/news/pm-pledges-178-billion-investment-in-defence-kit,news,15003,3.355344828,PM pledges £178 billion investment in defence kit - Press releases - GOV.UK,85.0,21.0,3489,19.0,7.0,762470,0.0,3.0,26959,29880,5.0,314538,0.0,0.0
+91,https://www.gov.uk/government/news/driving-licence-changes,news,5418,6.122755102,Driving licence changes - News stories - GOV.UK,77.0,41.0,6568,33.0,8.0,986907,0.0,8.0,90033,990512,11.0,1648380,0.0,37958
+92,https://www.gov.uk/government/news/strategic-defence-and-security-review-178bn-of-equipment-spending,news,5107,1.443596491,Strategic Defence and Security Review: £178bn of equipment spending - News stories - GOV.UK,83.0,21.0,3542,19.0,7.0,762470,0.0,3.0,25522,65705,5.0,314537,0.0,0
+93,https://www.gov.uk/government/news/vehicle-tax-changes,news,2773,3.777789474,Vehicle tax changes - News stories - GOV.UK,77.0,38.0,5695,32.0,8.0,986907,0.0,8.0,49604,385918,11.0,1648347,0.0,37958
+94,https://www.gov.uk/government/news/launch-of-the-new-companies-house-public-beta-service,news,2766,1.667133333,Launch of the new Companies House public beta service - News stories - GOV.UK,74.0,38.0,5817,32.0,8.0,986907,0.0,8.0,41748,544948,11.0,1648347,0.0,37958
+95,https://www.gov.uk/government/news/spending-review-and-autumn-statement-2015-everything-you-need-to-know,news,2285,1.5153,Spending Review and Autumn Statement 2015: everything you need to know - News stories - GOV.UK,83.0,21.0,3534,19.0,7.0,762470,0.0,3.0,23424,67094,5.0,314537,0.0,0
+96,https://www.gov.uk/government/news/new-national-minimum-wage-rates-announced,news,1796,1.918947368,New National Minimum Wage rates announced - Press releases - GOV.UK,83.0,21.0,3542,19.0,7.0,762469,0.0,3.0,23422,81595,5.0,314538,0.0,0
+97,https://www.gov.uk/government/news/immigration-rules-changes,news,1745,2.059909091,Immigration Rules changes - News stories - GOV.UK,83.0,21.0,3403,19.0,7.0,762470,0.0,3.0,21983,59839,5.0,314536,0.0,0
+98,https://www.gov.uk/government/news/hiring-a-vehicle,news,1570,4.169105263,Hiring a vehicle - News stories - GOV.UK,84.0,36.0,5388,30.0,8.0,986906,0.0,8.0,42588,63000,11.0,1648347,0.0,37958
+99,https://www.gov.uk/government/news/transport-direct-website-closes-on-30-september-2014,news,1336,3.171,Transport Direct website closes on 30 September 2014 - News stories - GOV.UK,83.0,22.0,3688,20.0,7.0,762469,0.0,3.0,23243,80248,5.0,314538,0.0,0
+100,https://www.gov.uk/driving-theory-test-centre,place,6327,2.102966667,Find a theory test centre - GOV.UK,85.0,21.0,3252,19.0,6.0,498484,0.0,3.0,18282,14556,5.0,283217,0.0,0
+101,https://www.gov.uk/find-regional-passport-office,place,2307,0.7275,Find a Passport Customer Service Centre - GOV.UK,85.0,22.0,3440,20.0,6.0,498484,0.0,3.0,18077,15666,5.0,283217,0.0,0
+102,https://www.gov.uk/number-plate-supplier,place,1801,0.857904762,Find your nearest number plate supplier - GOV.UK,85.0,21.0,3258,19.0,6.0,498485,0.0,3.0,18241,14555,5.0,283217,0.0,0
+103,https://www.gov.uk/passport-interview-office,place,1306,0.9125,Find a passport interview office - GOV.UK,85.0,22.0,3423,20.0,6.0,498485,0.0,3.0,18042,15665,5.0,283217,0.0,0
+104,https://www.gov.uk/compulsory-basic-training-cbt-courses,place,973,0.9488,Find a moped or motorcycle CBT course - GOV.UK,85.0,20.0,3140,18.0,6.0,498485,0.0,3.0,18341,12833,5.0,283216,0.0,0
+105,https://www.gov.uk/health-protection-team,place,582,0,Find your local health protection team in England - GOV.UK,85.0,21.0,3279,19.0,6.0,498485,0.0,3.0,19276,14556,5.0,283215,0.0,0
+106,https://www.gov.uk/valuation-offices-council-tax,place,502,0.6431,Contact the Valuation Office Agency about Council Tax bands - GOV.UK,85.0,20.0,3154,18.0,6.0,498485,0.0,3.0,19430,12834,5.0,283216,0.0,0
+107,https://www.gov.uk/find-atf-dvsa-test-station,place,396,1.2215,Book an annual test at an Authorised Testing Facility (ATF) - GOV.UK,85.0,20.0,3144,18.0,6.0,498484,0.0,3.0,18646,12833,5.0,283217,0.0,0
+108,https://www.gov.uk/valuation-offices-business-rates,place,371,1.0074,Find your local Valuation Office for business rates - GOV.UK,85.0,20.0,3151,18.0,6.0,498485,0.0,3.0,18073,12834,5.0,283215,0.0,0
+109,https://www.gov.uk/jobseekers-allowance/how-to-claim,programme,26268,2.018279352,Jobseeker's Allowance (JSA) - GOV.UK,85.0,24.0,3692,22.0,6.0,498485,0.0,3.0,24747,17364,5.0,283217,0.0,0
+110,https://www.gov.uk/winter-fuel-payment/what-youll-get,programme,10278,1.329034483,Winter Fuel Payment - GOV.UK,85.0,22.0,3373,20.0,6.0,498485,0.0,3.0,21873,15234,5.0,283217,0.0,0
+111,https://www.gov.uk/jobseekers-allowance,programme,10160,1.090428571,Jobseeker's Allowance (JSA) - GOV.UK,85.0,23.0,3516,21.0,6.0,498485,0.0,3.0,21654,16254,5.0,283217,0.0,0
+112,https://www.gov.uk/the-warm-home-discount-scheme/eligibility,programme,9963,1.359730337,Warm Home Discount Scheme - GOV.UK,85.0,23.0,3557,21.0,6.0,498485,0.0,3.0,22843,16254,5.0,283216,0.0,0
+113,https://www.gov.uk/winter-fuel-payment/overview,programme,9818,3.576972973,Winter Fuel Payment - GOV.UK,85.0,22.0,3361,20.0,6.0,498485,0.0,3.0,20160,15236,5.0,283216,0.0,0
+114,https://www.gov.uk/employment-support-allowance/how-to-claim,programme,9549,1.757507246,Employment and Support Allowance (ESA) - GOV.UK,85.0,22.0,3411,20.0,6.0,498485,0.0,3.0,21776,15235,5.0,283216,0.0,0
+115,https://www.gov.uk/state-pension,programme,9461,1.384273973,The basic State Pension - GOV.UK,85.0,22.0,3362,20.0,6.0,498485,0.0,3.0,19815,15235,5.0,283216,0.0,0
+116,https://www.gov.uk/jobseekers-allowance/what-youll-get,programme,9416,1.370740741,Jobseeker's Allowance (JSA) - GOV.UK,85.0,23.0,3531,21.0,6.0,498485,0.0,3.0,23291,16345,5.0,283217,0.0,0
+117,https://www.gov.uk/winter-fuel-payment/eligibility,programme,8195,1.312723684,Winter Fuel Payment - GOV.UK,85.0,22.0,3367,20.0,6.0,498485,0.0,3.0,21429,15236,5.0,283216,0.0,0
+118,https://www.gov.uk/jobseekers-allowance/overview,programme,7996,2.468888889,Jobseeker's Allowance (JSA) - GOV.UK,85.0,23.0,3535,21.0,6.0,498485,0.0,3.0,21663,16255,5.0,283217,0.0,0
+119,https://www.gov.uk/contact-the-dvla,simple_smart_answer,67285,1.340844275,Contact DVLA - GOV.UK,85.0,20.0,3063,18.0,6.0,498485,0.0,3.0,18841,13537,5.0,283216,0.0,0
+120,https://www.gov.uk/sold-bought-vehicle,simple_smart_answer,48938,0.834321256,Tell DVLA you've sold or bought a vehicle - GOV.UK,85.0,20.0,3112,18.0,6.0,498485,0.0,3.0,17468,13537,5.0,283216,0.0,0
+121,https://www.gov.uk/claim-state-pension-online,simple_smart_answer,18734,0.800681081,Claim your State Pension online - GOV.UK,85.0,20.0,3116,18.0,6.0,498484,0.0,3.0,17191,13537,5.0,283217,0.0,0
+122,https://www.gov.uk/settle-in-the-uk,simple_smart_answer,18030,0.842275862,Apply to settle in the UK - GOV.UK,85.0,19.0,2935,17.0,6.0,498485,0.0,3.0,18825,11815,5.0,283216,0.0,0
+123,https://www.gov.uk/qualify-tax-credits,simple_smart_answer,14176,1.254320755,Find out if you qualify for tax credits - GOV.UK,85.0,21.0,3238,19.0,6.0,498484,0.0,3.0,17353,14647,5.0,283216,0.0,0
+124,https://www.gov.uk/check-if-you-need-a-tax-return,simple_smart_answer,13261,1.275118644,Check if you need to fill in a Self Assessment tax return - GOV.UK,85.0,19.0,3001,17.0,6.0,498485,0.0,3.0,16946,11815,5.0,283217,0.0,0
+125,https://www.gov.uk/legal-right-work-uk,simple_smart_answer,11480,0.775511364,Check if someone can work in the UK - GOV.UK,85.0,19.0,2948,17.0,6.0,498485,0.0,3.0,17033,11815,5.0,283217,0.0,0
+126,https://www.gov.uk/vehicles-can-drive,simple_smart_answer,10631,1.28504,Vehicles you can drive - GOV.UK,85.0,19.0,2903,17.0,6.0,498485,0.0,3.0,15517,11815,5.0,283216,0.0,0
+127,https://www.gov.uk/exchange-foreign-driving-licence,simple_smart_answer,8722,0.932708333,Exchange a foreign driving licence - GOV.UK,85.0,20.0,3137,18.0,6.0,498485,0.0,3.0,16079,12834,5.0,283217,0.0,0
+128,https://www.gov.uk/register-employer,simple_smart_answer,7241,0.35296875,Register as an employer - GOV.UK,85.0,19.0,2924,17.0,6.0,498485,0.0,3.0,17716,11815,5.0,283216,0.0,0
+129,https://www.gov.uk/calculate-state-pension,smart_answer,209709,1.458507524,State Pension calculator - GOV.UK,86.0,22.0,3321,20.0,7.0,437178,0.0,3.0,18675,14556,5.0,248533,0.0,0
+130,https://www.gov.uk/calculate-your-holiday-entitlement,smart_answer,89237,1.017816327,Calculate holiday entitlement - GOV.UK,84.0,20.0,3023,18.0,7.0,437179,0.0,3.0,17271,11815,5.0,248534,0.0,0
+131,https://www.gov.uk/check-uk-visa,smart_answer,66588,2.021836538,Check if you need a UK visa - GOV.UK,86.0,20.0,2993,18.0,7.0,437179,0.0,3.0,17176,11815,5.0,248532,0.0,0
+132,https://www.gov.uk/calculate-your-child-maintenance,smart_answer,61710,1.3772,Child maintenance calculator - GOV.UK,86.0,22.0,3337,20.0,7.0,437179,0.0,3.0,18651,14556,5.0,248533,0.0,0
+133,https://www.gov.uk/pay-leave-for-parents,smart_answer,42498,0.907447761,Calculate your leave and pay when you have a child - GOV.UK,86.0,21.0,3186,19.0,7.0,437178,0.0,3.0,15863,13537,5.0,248534,0.0,0
+134,https://www.gov.uk/calculate-your-redundancy-pay,smart_answer,36707,1.06484,Calculate your statutory redundancy pay - GOV.UK,86.0,20.0,3042,18.0,7.0,437179,0.0,3.0,16614,11815,5.0,248533,0.0,0
+135,https://www.gov.uk/overseas-passports,smart_answer,35198,1.970664557,Overseas British passport applications - GOV.UK,86.0,20.0,3027,18.0,7.0,437179,0.0,3.0,16295,11815,5.0,248534,0.0,0
+136,https://www.gov.uk/student-finance-calculator,smart_answer,30292,1.011,Student finance calculator - GOV.UK,86.0,22.0,3320,20.0,7.0,437178,0.0,3.0,17429,14556,5.0,248533,0.0,0
+137,https://www.gov.uk/maternity-paternity-calculator,smart_answer,29674,0.761263158,Maternity and paternity calculator for employers - GOV.UK,86.0,21.0,3187,19.0,7.0,437179,0.0,3.0,17884,13536,5.0,248532,0.0,0
+138,https://www.gov.uk/calculate-statutory-sick-pay,smart_answer,20076,0.94472973,Calculate your employee's statutory sick pay - GOV.UK,85.0,21.0,3181,19.0,7.0,437179,0.0,3.0,17371,13535,5.0,248532,0.0,0
+139,https://www.gov.uk/topic/personal-tax/self-assessment,specialist-sector,21682,0.990937107,Personal tax: Self Assessment - GOV.UK,86.0,20.0,3157,18.0,6.0,367739,0.0,3.0,21347,15375,5.0,229774,0.0,0
+140,https://www.gov.uk/topic/business-tax/vat,specialist-sector,13791,1.080437086,Business tax: VAT - GOV.UK,86.0,20.0,3117,18.0,6.0,367739,0.0,3.0,27836,15372,5.0,229775,0.0,0
+141,https://www.gov.uk/topic/further-education-skills/apprenticeships,specialist-sector,10731,1.311082474,Further education and skills: Apprenticeships - GOV.UK,86.0,20.0,3216,18.0,6.0,367738,0.0,3.0,21923,15374,5.0,229774,0.0,0
+142,https://www.gov.uk/topic/business-tax/paye,specialist-sector,9577,0.912146667,Business tax: PAYE - GOV.UK,86.0,20.0,3119,18.0,6.0,367739,0.0,3.0,30574,15375,5.0,229776,0.0,0
+143,https://www.gov.uk/topic/personal-tax/income-tax,specialist-sector,7551,1.434885714,Personal tax: Income Tax - GOV.UK,86.0,20.0,3140,18.0,6.0,367739,0.0,3.0,21503,15374,5.0,229775,0.0,0
+144,https://www.gov.uk/topic/dealing-with-hmrc/paying-hmrc,specialist-sector,6383,1.312692308,Dealing with HMRC: Paying HMRC - GOV.UK,86.0,20.0,3167,18.0,6.0,367739,0.0,3.0,24902,15371,5.0,229775,0.0,0
+145,https://www.gov.uk/topic/dealing-with-hmrc/tax-agent-guidance,specialist-sector,4669,0.888595745,Dealing with HMRC: Tax agent and adviser guidance - GOV.UK,86.0,20.0,3203,18.0,6.0,367739,0.0,3.0,24120,15375,5.0,229775,0.0,0
+146,https://www.gov.uk/topic/company-registration-filing/starting-company,specialist-sector,4305,0.660470588,Company registration and filing: Starting a company - GOV.UK,86.0,20.0,3238,18.0,6.0,367739,0.0,3.0,19176,15374,5.0,229775,0.0,0
+147,https://www.gov.uk/topic/immigration-operational-guidance,specialist-sector,4123,0.813393939,Visas and immigration operational guidance - GOV.UK,84.0,18.0,2864,16.0,6.0,367739,0.0,3.0,17080,11076,5.0,229773,0.0,0
+148,https://www.gov.uk/topic/intellectual-property/trade-marks,specialist-sector,4053,1.324046512,Intellectual property: Trade marks - GOV.UK,86.0,20.0,3180,18.0,6.0,367738,0.0,3.0,26329,15373,5.0,229775,0.0,0
+149,https://www.gov.uk/jobsearch,transaction,207334,2.962757174,Find a job with Universal Jobmatch - GOV.UK,85.0,22.0,3389,20.0,6.0,498485,0.0,3.0,21758,15351,5.0,283216,0.0,0
+150,https://www.gov.uk/vehicle-tax,transaction,136397,2.165168059,Tax your vehicle - GOV.UK,85.0,22.0,3358,20.0,6.0,498485,0.0,3.0,19788,15348,5.0,283216,0.0,0
+151,https://www.gov.uk/get-information-about-a-company,transaction,100752,0.814701639,Get information about a company - GOV.UK,85.0,24.0,3735,22.0,6.0,498485,0.0,3.0,19636,17063,5.0,283217,0.0,0
+152,https://www.gov.uk/view-driving-licence,transaction,64451,2.671084428,View or share your driving licence information - GOV.UK,85.0,22.0,3410,20.0,6.0,498485,0.0,3.0,19949,15349,5.0,283215,0.0,0
+153,https://www.gov.uk/check-vehicle-tax,transaction,64176,2.164921495,Check if a vehicle is taxed - GOV.UK,85.0,20.0,3079,18.0,6.0,498485,0.0,3.0,17467,12609,5.0,283217,0.0,0
+154,https://www.gov.uk/pay-dartford-crossing-charge,transaction,52592,2.313284536,Pay the Dartford Crossing charge (Dart Charge) - GOV.UK,85.0,22.0,3402,20.0,6.0,498485,0.0,3.0,19042,15351,5.0,283216,0.0,0
+155,https://www.gov.uk/change-driving-test,transaction,44668,2.849493464,Change the date of your practical driving or riding test - GOV.UK,85.0,24.0,3958,21.0,6.0,498485,0.0,3.0,21037,16885,5.0,283216,0.0,0
+156,https://www.gov.uk/get-vehicle-information-from-dvla,transaction,38636,2.067947674,Get vehicle information from DVLA - GOV.UK,85.0,22.0,3421,20.0,6.0,498485,0.0,3.0,20261,15351,5.0,283215,0.0,0
+157,https://www.gov.uk/register-to-vote,transaction,38269,3.599299674,Register to vote - GOV.UK,85.0,23.0,3706,20.0,6.0,498485,0.0,3.0,18811,15776,5.0,283215,0.0,0
+158,https://www.gov.uk/student-finance-register-login,transaction,34291,2.590355482,Student finance login - GOV.UK,85.0,22.0,3403,20.0,6.0,498485,0.0,3.0,18983,15347,5.0,283215,0.0,0
+159,https://www.gov.uk/foreign-travel-advice,travel-advice,44509,1.692910053,Foreign travel advice - GOV.UK,85.0,22.0,3429,20.0,6.0,498485,0.0,3.0,45029,18042,6.0,288038,0.0,0
+160,https://www.gov.uk/foreign-travel-advice/belgium,travel-advice,39118,2.153621908,Belgium travel advice - GOV.UK,85.0,24.0,3744,22.0,6.0,498484,0.0,3.0,24943,21517,5.0,283217,0.0,0
+161,https://www.gov.uk/foreign-travel-advice/france,travel-advice,22263,2.735241379,France travel advice - GOV.UK,85.0,24.0,3743,22.0,6.0,498485,0.0,3.0,24864,21513,5.0,283216,0.0,0
+162,https://www.gov.uk/foreign-travel-advice/egypt,travel-advice,11271,2.829029703,Egypt travel advice - GOV.UK,82.0,25.0,3841,23.0,6.0,498485,0.0,3.0,25655,242930,5.0,283216,0.0,0
+163,https://www.gov.uk/foreign-travel-advice/germany,travel-advice,5421,1.413171429,Germany travel advice - GOV.UK,85.0,23.0,3584,21.0,6.0,498485,0.0,3.0,21300,20496,5.0,283216,0.0,0
+164,https://www.gov.uk/foreign-travel-advice/turkey,travel-advice,5181,2.394065217,Turkey travel advice - GOV.UK,81.0,26.0,4005,24.0,6.0,498485,0.0,3.0,25098,223861,5.0,283217,0.0,0
+165,https://www.gov.uk/foreign-travel-advice/morocco,travel-advice,3875,2.059464286,Morocco travel advice - GOV.UK,85.0,23.0,3584,21.0,6.0,498485,0.0,3.0,21558,20495,5.0,283216,0.0,0
+166,https://www.gov.uk/foreign-travel-advice/belgium/terrorism,travel-advice,3583,1.00875,Belgium travel advice - GOV.UK,85.0,22.0,3456,20.0,6.0,498485,0.0,3.0,20562,18775,5.0,283215,0.0,0
+167,https://www.gov.uk/foreign-travel-advice/usa,travel-advice,3558,3.112742857,USA travel advice - GOV.UK,85.0,24.0,3735,22.0,6.0,498485,0.0,3.0,22612,21515,5.0,283215,0.0,0
+168,https://www.gov.uk/foreign-travel-advice/spain,travel-advice,2973,1.952590909,Spain travel advice - GOV.UK,85.0,23.0,3578,21.0,6.0,498485,0.0,3.0,21572,20494,5.0,283215,0.0,0
